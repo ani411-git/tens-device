@@ -105,7 +105,7 @@ Mobile application input is integrated into the control loop via BLE communicati
 
 ## Technical Approach
 
-![Technical Architecture](docs/technical_architecture.png)
+![Technical Architecture](docs/tech_stack.png)
 
 ---
 
