@@ -143,6 +143,6 @@ Mobile application input is integrated into the control loop via BLE communicati
 
 System architecture, circuit design and implementation completed. Biphasic pulse generated using the given circuit, shown below. 
 
-![Output](docs/biphasic_waveform.png)
+![Output](docs/biphasic_waveform.jpg)
 
 
